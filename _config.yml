@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "es-ES" # Changed to Spanish locale
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "malkoom's page" # More personal title
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Página de Marc" # More personal title
 title_separator          : "-"
 name                     : &name "Marcos Matutes Rapun"
 description              : &description "Aquí encontrarás mi portfolio de desarrollador de videjuegos"   # Update this with a general description of your site, this is the default if not overridden by a page
