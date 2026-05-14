@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Marcos Matutes Rapun | Desarrollador de Videojuegos | Gráficos 3D"
+title: "Página Principal"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+## ¿Quién soy?
 
 ¡Hola! Soy Marcos Matutes Rapun, un apasionado desarrollador de videojuegos con un gran interés en los gráficos 3D. Mi objetivo es dar vida a mundos virtuales inmersivos y visualmente impresionantes, combinando creatividad con sólidas habilidades técnicas en motores como Unity, y APIs gráficas como OpenGL y próximamente en Vulkan.
 
